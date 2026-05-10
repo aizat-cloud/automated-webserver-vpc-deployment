@@ -177,4 +177,30 @@ VPC `My-First-VPC-Aizat` showing the complete network topology — 6 subnets, 2 
 
 ---
 
-#
+## 🔮 Future Improvements
+
+- **Application Load Balancer (ALB)** in front of multiple EC2 instances across both public subnets for true high availability
+- **Auto Scaling Group** with the User Data script as the launch template — turns this into a self-healing, elastic fleet
+- **RDS deployment in the private subnet** to demonstrate the full 2-tier pattern with database isolation
+- **Route 53 + ACM** for a custom domain name with TLS/HTTPS termination at the load balancer
+- **Conversion to Terraform** — reproduce this entire architecture as version-controlled Infrastructure as Code
+- **CloudWatch Logs integration** — stream Apache access and error logs for centralized observability
+
+---
+
+## 👤 Author
+
+**Khairul Aizat**
+Aspiring Cloud & Linux Operations Engineer | KL / Selangor, Malaysia
+
+- LinkedIn: [linkedin.com/in/aizat-linux](https://www.linkedin.com/in/aizat-linux)
+- AWS Certified Cloud Practitioner (CLF-C02)
+- LPI Linux Essentials — High Distinction (750/800)
+
+**Related Repositories:**
+- [Linux Server Provisioning & Audit System](https://github.com/aizat-cloud/linux-server-audit-system)
+- [Resilient Multi-AZ VPC Architecture](https://github.com/aizat-cloud/resilient-aws-vpc-architecture)
+
+---
+
+> *"The mark of a senior engineer isn't writing more code — it's designing systems where less code does more work."*
