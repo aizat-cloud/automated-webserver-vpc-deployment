@@ -191,7 +191,7 @@ VPC `My-First-VPC-Aizat` showing the complete network topology — 6 subnets, 2 
 ## 👤 Author
 
 **Khairul Aizat**
-Aspiring Cloud & Linux Operations Engineer | KL / Selangor, Malaysia
+Aspiring Cloud & Linux Operations Engineer | KL, Malaysia
 
 - LinkedIn: [linkedin.com/in/aizat-linux](https://www.linkedin.com/in/aizat-linux)
 - AWS Certified Cloud Practitioner (CLF-C02)
